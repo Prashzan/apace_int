@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Questrial&display=swap");
+:root {
+  --mainBlue: blue;
+  --mainWhite: #fff;
+  --mainBlack: #000;
+  --mainGrey: rgb(238, 238, 238);
+}
+
+body {
+  font-family: "Questrial", sans-serif;
+  /* background: var(--mainWhite);
+  color: var(--mainWhite); */
+}
